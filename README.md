@@ -1,2 +1,4 @@
-# Inspect-Element-
-Use of Cryptography through Inspect element
+# Inspect-Element
+Graph chart creator
+Graph chart overlay
+Graph chart comparision
